@@ -1,0 +1,4 @@
+#ifndef HEADER_WORKS
+#define HEADER_WORKS
+
+#endif//HEADER_WORKS
